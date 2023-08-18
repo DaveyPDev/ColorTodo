@@ -1,0 +1,9 @@
+.Box {
+    position: relative;
+  }
+  
+  .Box button {
+    position: absolute;
+    right: -25px;
+  }
+  
